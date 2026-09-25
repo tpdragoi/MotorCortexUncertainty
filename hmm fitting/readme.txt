@@ -1,0 +1,2 @@
+The Julia environment can be setup using the Project.toml and Manifest.toml files in the Julia folder.
+Each file for processing data, fitting the HMMs, and generating figures must have paths configured for your local machine.
