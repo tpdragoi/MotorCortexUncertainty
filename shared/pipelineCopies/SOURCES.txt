@@ -1,0 +1,12 @@
+Byte-for-byte copies of the uninstructedMovements_v2-main functions the _clean
+scripts use, so nothing depends on that folder. Do not edit these -- they are kept
+identical to the originals.
+
+function                  bytes  sha256 (first 16)  copied from uninstructedMovements_v2-main\
+findClusters                821  253b3db9d0878ec2  DataLoadingScripts\findClusters.m
+findTrials                 1692  5ce76bcbfaca2802  DataLoadingScripts\findTrials.m
+getStructVarNames           665  414324cb9a0a32f5  utils\getStructVarNames.m
+mySmooth                   1745  d8891f633d132c13  utils\mySmooth.m
+patternMatchCellArray       507  e29b840e50fafd2e  utils\patternMatchCellArray.m
+doAlign                     370  054f4f1373386f4c  base code\other_codes\Phase Analysis\doAlign.m
+linspecer                  8188  7a742d6a046e8369  utils\linspecer.m
